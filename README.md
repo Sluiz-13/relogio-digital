@@ -1,1 +1,3 @@
-Digital clock - my first project using HTML, CSS, and JavaScript
+## Relógio Digital 
+
+Meu primeiro projeto usando HTML, CSS e JavaScript para desenvolver um relógio digital simples 
